@@ -28,3 +28,4 @@ end
 
 def using_uniq(array)
   array_out = array.uniq()
+end
